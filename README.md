@@ -14,6 +14,11 @@ https://www.yuque.com/sdutzhou/durg6g/gvziv4u9cxvta5k5?singleDoc# 《深度学�
 https://www.yuque.com/sdutzhou/durg6g/adgaug867onvhat6?singleDoc# 《机器学习一些概念》
 
 
+https://www.kaggle.com/code/zhoushixiang/r-base
+
+ 
+https://www.kaggle.com/code/zhoushixiang/svm-example
+
 https://www.yuque.com/sdutzhou/durg6g/gifdva8wrzvl6u01?singleDoc# 《tidyverse数据分析操作案例》
 
 
@@ -22,3 +27,5 @@ https://www.yuque.com/sdutzhou/durg6g/gifdva8wrzvl6u01?singleDoc# 《tidyverse�
 https://www.zhihu.com/column/c_1509181173906006016  数学软件专栏
 
 https://www.zhihu.com/column/c_1530113383386419200 建模算法专栏
+
+

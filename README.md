@@ -14,10 +14,10 @@ https://www.yuque.com/sdutzhou/durg6g/gvziv4u9cxvta5k5?singleDoc# 《深度学�
 https://www.yuque.com/sdutzhou/durg6g/adgaug867onvhat6?singleDoc# 《机器学习一些概念》
 
 
-https://www.kaggle.com/code/zhoushixiang/r-base
+https://www.kaggle.com/code/zhoushixiang/r-base  R基础语法演练
 
  
-https://www.kaggle.com/code/zhoushixiang/svm-example
+https://www.kaggle.com/code/zhoushixiang/svm-example  支持向量机代码
 
 https://www.yuque.com/sdutzhou/durg6g/gifdva8wrzvl6u01?singleDoc# 《tidyverse数据分析操作案例》
 
